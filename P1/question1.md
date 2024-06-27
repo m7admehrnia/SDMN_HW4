@@ -1,5 +1,5 @@
 # Question 1
-Question: Now delete the router and its links to the bridges. How can we route packets from
+Question: Now delete the router and its links to the bridges (figure 2). How can we route packets from
 one subnet to another? Explain your solution.  
 (Including the rules in the root namespace, no implementation is required)
 
